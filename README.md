@@ -23,7 +23,9 @@ for this project. Here are the three terminal commands needed
 to install Pip.
 
 $ sudo apt-get install python-pip python-dev build-essential 
+
 $ sudo pip install --upgrade pip 
+
 $ sudo pip install --upgrade virtualenv 
 
 ### WolframAlpha - Dependencies:
